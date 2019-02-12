@@ -1,0 +1,25 @@
+VERSION-TITLE: Payment Systems
+Previous Version: 0.0.2
+New Version: 0.0.3
+
+Added:
+
+    > Payment
+        - Added the ability to pay with PayPal either by directly purchasing or by adding to a cart.
+        
+    > Pages
+        - Added a new page About Bitcoin and how our site plans to use it
+    
+Removed:
+
+    > N/A
+
+Changes:
+
+    > User Interface
+        - Changes have been made to how the website responds to differnet browser widths. The site should feel more fluid and smoother.
+        
+Future Updates
+
+    > Payment
+        - We are still working on Bitcoin payments and it is a top priority for us at the moment.

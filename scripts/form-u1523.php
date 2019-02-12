@@ -41,13 +41,13 @@ $form = array(
 			)
 		),
 		'Email' => array(
-			'order' => 2,
+			'order' => 5,
 			'type' => 'email',
-			'label' => 'Number Of Websites',
+			'label' => 'Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Number Of Websites\' is required.',
-				'format' => 'Field \'Number Of Websites\' has an invalid email address.'
+				'required' => 'Field \'Email\' is required.',
+				'format' => 'Field \'Email\' has an invalid email address.'
 			)
 		),
 		'custom_U1544' => array(
@@ -69,12 +69,12 @@ $form = array(
 			)
 		),
 		'custom_U1806' => array(
-			'order' => 5,
+			'order' => 2,
 			'type' => 'string',
-			'label' => 'Email',
+			'label' => 'Number Of Websites',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.'
+				'required' => 'Field \'Number Of Websites\' is required.'
 			)
 		)
 	)

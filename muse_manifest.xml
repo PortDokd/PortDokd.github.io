@@ -1,26 +1,30 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.portdokd.tk" resolutions="1x,2x" timestamp="1549777511819">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.portdokd.tk" resolutions="1x,2x" timestamp="1549963222146">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="26751748" ref="index:pricing:products"/>
-    <file name="index.css" crc="332765534" ref="index"/>
-    <file name="pricing.css" crc="4142787420" ref="pricing"/>
-    <file name="products.css" crc="200284523" ref="products"/>
+    <file name="master_a-master.css" crc="3794819438" ref="bitcoin-about:index:pricing:products"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="bitcoin-about:index:pricing:products"/>
+    <file name="bitcoin-about.css" crc="4163025951" ref="bitcoin-about"/>
+    <file name="nomq_bitcoin-about.css" crc="108277603" ref="bitcoin-about"/>
+    <file name="index.css" crc="169593788" ref="index"/>
+    <file name="pricing.css" crc="4170116917" ref="pricing"/>
+    <file name="products.css" crc="3784793775" ref="products"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pricing:products"/>
-    <file name="museutils.js" crc="340535759" ref="index:pricing:products"/>
-    <file name="whatinput.js" crc="86476730" ref="index:pricing:products"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:pricing:products"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:pricing:products"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:pricing:products"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:pricing:products"/>
-    <file name="require.js" crc="7928878" ref="index:pricing:products"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pricing:products:bitcoin-about"/>
+    <file name="museutils.js" crc="340535759" ref="index:pricing:products:bitcoin-about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pricing:products:bitcoin-about"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:pricing:products:bitcoin-about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:pricing:products:bitcoin-about"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:pricing:products:bitcoin-about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pricing:products:bitcoin-about"/>
+    <file name="require.js" crc="7928878" ref="index:pricing:products:bitcoin-about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="products"/>
     <file name="webpro.js" crc="4059564322" ref="products"/>
     <file name="form_check.php" crc="4020933626" ref="products"/>
     <file name="form_throttle.php" crc="4259590256" ref="products"/>
     <file name="form_process.php" crc="37464564" ref="products"/>
-    <file name="form-u1523.php" crc="114821494" ref="products"/>
+    <file name="form-u1523.php" crc="4007528347" ref="products"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="bitcoin-about"/>
   </folder>
   <folder name="images">
     <file name="rainbow illusion.gif" crc="117125594" ref="index">
@@ -29,19 +33,29 @@
     <file name="rainbow illusion_2x.gif" crc="117125594" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:pricing:products"/>
+    <file name="u2468-4.png" crc="308220666" ref="index"/>
+    <file name="u2468-4_2x.png" crc="3878511338" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:pricing:products:bitcoin-about"/>
+    <file name="u2114-4.png" crc="4181071210" ref="index"/>
+    <file name="u2114-4_2x.png" crc="55797415" ref="index"/>
+    <file name="u2474-4.png" crc="3986026605" ref="index"/>
+    <file name="u2474-4_2x.png" crc="4199421238" ref="index"/>
+    <file name="u2126-4.png" crc="467905645" ref="index"/>
+    <file name="u2126-4_2x.png" crc="74995845" ref="index"/>
+    <file name="u2471-5.png" crc="4102788240" ref="index"/>
+    <file name="u2471-5_2x.png" crc="510439064" ref="index"/>
+    <file name="u2477-11.png" crc="3833458276" ref="index"/>
+    <file name="u2477-11_2x.png" crc="4048933197" ref="index"/>
+    <file name="u3172-4.png" crc="447540898" ref="index"/>
+    <file name="u3172-4_2x.png" crc="4114143172" ref="index"/>
     <file name="orb-cube gif.gif" crc="3843906900" ref="pricing">
       <caption webpage="pricing" alt=""/>
     </file>
     <file name="orb-cube gif_2x.gif" crc="3843906900" ref="pricing">
       <caption webpage="pricing" alt=""/>
     </file>
-    <file name="u845-4.png" crc="412868959" ref="pricing"/>
-    <file name="u845-4_2x.png" crc="3808152305" ref="pricing"/>
-    <file name="u887.png" crc="271918095" ref="pricing"/>
-    <file name="u887_2x.png" crc="125232264" ref="pricing"/>
-    <file name="u887-r.png" crc="271918095" ref="pricing"/>
-    <file name="u887-r_2x.png" crc="125232264" ref="pricing"/>
+    <file name="u845-6.png" crc="3941240365" ref="pricing"/>
+    <file name="u845-6_2x.png" crc="418363587" ref="pricing"/>
     <file name="u831-4.png" crc="87623637" ref="pricing"/>
     <file name="u831-4_2x.png" crc="4128318035" ref="pricing"/>
     <file name="u839-4.png" crc="413666488" ref="pricing"/>
@@ -58,17 +72,19 @@
     <file name="3 servers_2x.png" crc="50535393" ref="products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="u782-19.png" crc="317158307" ref="products"/>
-    <file name="u782-19_2x.png" crc="4133443071" ref="products"/>
+    <file name="u782-7.png" crc="4179575557" ref="products"/>
+    <file name="u782-7_2x.png" crc="3775277913" ref="products"/>
     <file name="new identity.jpg" crc="3814403832" ref="products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="u779-34.png" crc="199054326" ref="products"/>
-    <file name="u779-34_2x.png" crc="4167073909" ref="products"/>
+    <file name="u779-33.png" crc="3779634543" ref="products"/>
+    <file name="u779-33_2x.png" crc="122528776" ref="products"/>
+    <file name="u2704-4.png" crc="361412785" ref="products"/>
+    <file name="u2704-4_2x.png" crc="3879077387" ref="products"/>
     <file name="ebook photo-u615-fr.jpg" crc="455404871" ref="products"/>
     <file name="ebook photo-u615-fr_2x.jpg" crc="4241796912" ref="products"/>
-    <file name="u765-6.png" crc="130702114" ref="products"/>
-    <file name="u765-6_2x.png" crc="256624828" ref="products"/>
+    <file name="u765-6.png" crc="220275587" ref="products"/>
+    <file name="u765-6_2x.png" crc="159450447" ref="products"/>
     <file name="u610-6.png" crc="73371263" ref="products"/>
     <file name="u610-6_2x.png" crc="3944635631" ref="products"/>
     <file name="u436-4.png" crc="4060091730" ref="products"/>
@@ -77,24 +93,26 @@
     <file name="u808-4_2x.png" crc="4253844443" ref="products"/>
     <file name="u1132-6.png" crc="39663920" ref="products"/>
     <file name="u1132-6_2x.png" crc="250249653" ref="products"/>
-    <file name="u1129-4.png" crc="4099062634" ref="products"/>
-    <file name="u1129-4_2x.png" crc="3836695232" ref="products"/>
-    <file name="u1928.png" crc="390889292" ref="products"/>
-    <file name="u1928_2x.png" crc="4073484819" ref="products"/>
-    <file name="u1928-r.png" crc="390889292" ref="products"/>
-    <file name="u1928-r_2x.png" crc="4073484819" ref="products"/>
+    <file name="u1129-6.png" crc="3967601870" ref="products"/>
+    <file name="u1129-6_2x.png" crc="4045288975" ref="products"/>
     <file name="5servers tranpsarent.png" crc="245000282" ref="products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="u1310-25.png" crc="4126141119" ref="products"/>
     <file name="u1310-25_2x.png" crc="119372515" ref="products"/>
+    <file name="u2793-4.png" crc="294383670" ref="products"/>
+    <file name="u2793-4_2x.png" crc="3839618123" ref="products"/>
     <file name="u1304-25.png" crc="4115573198" ref="products"/>
     <file name="u1304-25_2x.png" crc="3832806097" ref="products"/>
+    <file name="u2804-4.png" crc="294383670" ref="products"/>
+    <file name="u2804-4_2x.png" crc="3839618123" ref="products"/>
     <file name="premiumservers.png" crc="431429457" ref="products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="u1313-25.png" crc="514237375" ref="products"/>
     <file name="u1313-25_2x.png" crc="353417031" ref="products"/>
+    <file name="u2816-4.png" crc="294383670" ref="products"/>
+    <file name="u2816-4_2x.png" crc="3839618123" ref="products"/>
     <file name="u1158-4.png" crc="3828956018" ref="products"/>
     <file name="u1158-4_2x.png" crc="3873150273" ref="products"/>
     <file name="u1229-6.png" crc="73371263" ref="products"/>
@@ -118,8 +136,24 @@
     </file>
     <file name="u1797-6.png" crc="3774886387" ref="products"/>
     <file name="u1797-6_2x.png" crc="226372133" ref="products"/>
+    <file name="floating bubble.gif" crc="4225097951" ref="bitcoin-about">
+      <caption webpage="bitcoin-about" alt=""/>
+      <caption webpage="bitcoin-about" alt=""/>
+    </file>
+    <file name="floating bubble_2x.gif" crc="4225097951" ref="bitcoin-about">
+      <caption webpage="bitcoin-about" alt=""/>
+    </file>
+    <file name="u3040-4.png" crc="243882807" ref="bitcoin-about"/>
+    <file name="u3040-4_2x.png" crc="317190445" ref="bitcoin-about"/>
+    <file name="u3041-13.png" crc="4262216508" ref="bitcoin-about"/>
+    <file name="u3041-13_2x.png" crc="4292002913" ref="bitcoin-about"/>
+    <file name="u3040-42.png" crc="4236370907" ref="bitcoin-about"/>
+    <file name="u3040-4_2x2.png" crc="77570369" ref="bitcoin-about"/>
+    <file name="u3041-132.png" crc="3884841581" ref="bitcoin-about"/>
+    <file name="u3041-13_2x2.png" crc="447839919" ref="bitcoin-about"/>
   </folder>
-  <file name="index.html" crc="3919244757" seo="true" mt="1549775022272" redirect="true"/>
-  <file name="pricing.html" crc="521804025" seo="true" mt="1549775022272" redirect="true"/>
-  <file name="products.html" crc="4163886957" seo="true" mt="1549775022272" redirect="true"/>
+  <file name="index.html" crc="119282654" seo="true" mt="1549962893170" redirect="true"/>
+  <file name="pricing.html" crc="214564563" seo="true" mt="1549962786177" redirect="true"/>
+  <file name="products.html" crc="3875735364" seo="true" mt="1549961504029" redirect="true"/>
+  <file name="bitcoin-about.html" crc="4242897236" seo="true" mt="1549962919302" redirect="true"/>
 </manifest>
